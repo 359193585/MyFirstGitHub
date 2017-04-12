@@ -1,0 +1,8 @@
+D:\FWZXPRG_VS2013\TvTiCiQi\TvTiCiQi\obj\x86\Debug\TvTiCiQi.Form1.resources
+D:\FWZXPRG_VS2013\TvTiCiQi\TvTiCiQi\obj\x86\Debug\TvTiCiQi.Properties.Resources.resources
+D:\FWZXPRG_VS2013\TvTiCiQi\TvTiCiQi\obj\x86\Debug\TvTiCiQi.csproj.GenerateResource.Cache
+D:\FWZXPRG_VS2013\TvTiCiQi\TvTiCiQi\bin\x86\Debug\TvTiCiQi.exe
+D:\FWZXPRG_VS2013\TvTiCiQi\TvTiCiQi\bin\x86\Debug\TvTiCiQi.pdb
+D:\FWZXPRG_VS2013\TvTiCiQi\TvTiCiQi\obj\x86\Debug\TvTiCiQi.exe
+D:\FWZXPRG_VS2013\TvTiCiQi\TvTiCiQi\obj\x86\Debug\TvTiCiQi.pdb
+D:\FWZXPRG_VS2013\TvTiCiQi\TvTiCiQi\obj\x86\Debug\TvTiCiQi.csprojResolveAssemblyReference.cache
